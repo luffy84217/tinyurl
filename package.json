@@ -1,0 +1,25 @@
+{
+  "name": "tinyurl",
+  "version": "1.0.0",
+  "description": "this is an app providing url shortener service.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30"
+  },
+  "engines": {
+    "node": "^6.11.1"
+  },
+  "repository": {},
+  "devDependencies": {},
+  "author": "Fu Chuan Yu",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
