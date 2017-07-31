@@ -4,7 +4,7 @@
 // init project
 const express = require('express'),
       mongodb = require('mongodb');
-const dburl = 'mongodb://luffy84217:b1a2t3t3l4e5@ds111103.mlab.com:11103/tinyurl';
+const dburl = '';
 
 const MongoClient = mongodb.MongoClient;
 const app = express(),
